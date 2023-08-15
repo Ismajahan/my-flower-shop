@@ -161,8 +161,8 @@
     background-color: black;
     height: 449px;
     text-align: center;
-    padding: 90px;
-    margin-top: 80px;
+    padding: 150px;
+    margin-top: 90px;
 }
 
 .finish {
@@ -177,4 +177,5 @@
     color: rgba(255, 255, 255, 0.40);
     font-size: 16px;
     font-weight: 400;
+    text-decoration: none;
 }
