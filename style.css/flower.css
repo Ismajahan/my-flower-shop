@@ -1,0 +1,180 @@
+.banner {
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    background-position: bottom right;
+    padding-bottom: 0px;
+}
+
+.banner-content {
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    justify-content: center;
+}
+
+.banner-title {
+    margin-top: 197px;
+    color: #272727;
+    font-size: 55px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.button {
+    border: none;
+    display: flex;
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+
+}
+
+.header-flower {
+    width: 600px;
+    height: 700px;
+    padding-top: 50px;
+
+}
+
+.image {
+    margin: 100px 150px 0px 150px;
+    padding: 50px 50px;
+    border-radius: 8px;
+    justify-content: space-evenly;
+    display: flex;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+
+}
+
+.sale-flower {
+    width: 300px;
+    height: 400px;
+    padding: 130px 180px 130px 180px;
+}
+
+.banner-2 {
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    margin-top: 70px;
+    margin-bottom: 0px;
+}
+
+.banner-content-2 {
+    text-align: center;
+    padding: 10px 100px 0px 100px;
+}
+
+.banner-title-2 {
+    text-align: center;
+    margin-top: 197px;
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.button-2 {
+    border: none;
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    text-align: center;
+
+}
+
+.description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+.insta-flower {
+    width: 200px;
+    height: 250px;
+
+
+}
+
+.banner-title-3 {
+    margin-bottom: 0px;
+}
+
+.banner-3 {
+    display: flex;
+    margin-top: 0px;
+    padding: 0px 80px;
+    justify-content: space-around;
+}
+
+.banner-content-3 {
+    margin-top: 90px;
+    text-align: center;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.description-3 {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 15px;
+    margin-bottom: 48px;
+}
+
+.banner-4 {
+    background-image: url(../style.css/Rectangle\ 9.png);
+    height: 449px;
+    text-align: center;
+    padding: 90px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 80px;
+}
+
+.button-3 {
+    border-radius: 8px solid black;
+    background: #FFF;
+    width: 450px;
+}
+
+.taking-input {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 30px;
+}
+
+.fot {
+    background-color: black;
+    height: 449px;
+    text-align: center;
+    padding: 90px;
+    margin-top: 80px;
+}
+
+.finish {
+    color: #E55473;
+}
+
+.description-2 {
+    color: #FFF;
+}
+
+.anchor {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+}
